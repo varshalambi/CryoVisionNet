@@ -22,8 +22,6 @@ cryoet_project/
 │── patching.py        # Patch extraction and reconstruction
 │── model.py           # UNet model and training logic
 │── training.py        # Training script using Lightning
-│── utils.py           # Utility functions (e.g., logging, visualization)
-│── main.py            # Main script to run training and validation
 │── requirements.txt   # Dependencies
 │── README.md          # Documentation
 ```
